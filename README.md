@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there I'm Aasis 👋
 
-<!--
-**Aasis257/Aasis257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# Aasis 👨‍💻
 
-Here are some ideas to get you started:
+🎓 CSE Engineering Student  
+🚀 Participant in the **Prerana Experimental Programme** conducted under the guidance of the Honourable Prime Minister of India.  
+💡 Passionate about technology, innovation, problem-solving, and continuous learning.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- Currently pursuing Computer Science Engineering (CSE)
+- Interested in software development, AI, and emerging technologies
+- Enthusiastic learner exploring coding, projects, and open-source contributions
+- Motivated to create impactful solutions through technology
+
+## 🛠️ Skills
+- Programming: C, C++, Python, Java
+- Web Development: HTML, CSS, JavaScript
+- Tools & Technologies: Git, GitHub, VS Code
+
+## 📌 Goals
+- Build innovative tech projects
+- Contribute to open-source communities
+- Grow as a developer and problem solver
+
+> “Learning, building, and growing one line of code at a time.” 🚀
+```
